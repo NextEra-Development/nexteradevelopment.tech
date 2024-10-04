@@ -9,3 +9,12 @@ Domain Which Displays NextEra Development Website.
      ![image](https://github.com/user-attachments/assets/d02ce266-709b-4524-80d6-c36bcf942999)
 
 
+## How to Use This Repository Locally
+
+Follow these steps to set up and run the NextEra Development website locally on your machine:
+
+### 1. Clone the Repository
+Open your terminal and run the following command to clone the repository:
+```sh
+git clone https://github.com/NextEra-Development/nexteradevelopment.tech.git
+cd nexteradevelopment.tech
