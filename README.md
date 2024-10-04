@@ -15,6 +15,11 @@ Follow these steps to set up and run the NextEra Development website locally on 
 
 ### 1. Clone the Repository
 Open your terminal and run the following command to clone the repository:
-```sh
+```
 git clone https://github.com/NextEra-Development/nexteradevelopment.tech.git
 cd nexteradevelopment.tech
+```
+
+# 2. Install Dependencies
+Ensure you have Node.js installed. Then, run the following command to install the necessary dependencies:
+```npm install```
